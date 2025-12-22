@@ -1,4 +1,4 @@
-# Signalwoods AI Agent
+# SIAG01
 
 ## Overview
 Signalwoods AI Agent is an experimental AI-driven component designed as part of the Signalwoods project.  
@@ -45,7 +45,7 @@ signalwoods-ai-agent/
 
 ### Setup
 ```bash
-git clone https://github.com/ShuboDey/signalwoods-ai-agent.git
+git clone https://github.com/ShuboDey/SIAG01.git
 cd signalwoods-ai-agent
 python -m venv .venv
 source .venv/Scripts/activate   # Windows
