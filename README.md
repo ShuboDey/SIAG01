@@ -26,3 +26,27 @@ This repository follows a clean Git-based workflow with clear version history, r
 ---
 
 ## Repository Structure
+signalwoods-ai-agent/
+├── src/ # Application source code
+├── tests/ # Automated tests
+├── docs/ # Architecture and design documents
+├── scripts/ # Helper scripts
+├── .gitignore
+├── .env.example
+├── README.md
+
+---
+
+## Getting Started
+
+### Prerequisites
+- Python 3.x installed
+- Git installed
+
+### Setup
+```bash
+git clone https://github.com/ShuboDey/signalwoods-ai-agent.git
+cd signalwoods-ai-agent
+python -m venv .venv
+source .venv/Scripts/activate   # Windows
+pip install -r requirements.txt
